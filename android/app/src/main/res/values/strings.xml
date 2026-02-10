@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DF Legal - Carnaval 26</string>
+    <string name="title_activity_main">DF Legal - Carnaval 26</string>
+    <string name="package_name">com.dflex.projcarnaval</string>
+    <string name="custom_url_scheme">com.dflex.projcarnaval</string>
+</resources>

@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Ajustes para tablet Samsung */
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: #f8fafc; /* Fundo cinza claro */
+  -webkit-tap-highlight-color: transparent; /* Remove flash azul ao tocar */
+}
+
+/* Garante altura total */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
